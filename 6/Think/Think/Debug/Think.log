@@ -1,0 +1,18 @@
+﻿  Think.cpp
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(226,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(226,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(243,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(243,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(260,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(260,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(277,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(277,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(287,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(287,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(292,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(292,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(297,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(297,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(302,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\Think\Think\Think.cpp(302,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Think.vcxproj -> H:\code\code\c\VS\Sophomore\6\Think\Debug\Think.exe
