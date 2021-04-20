@@ -1,0 +1,16 @@
+﻿  SDK1.cpp
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(14,13): error C2665: “CreateFontW”: 2 个重载中没有一个可以转换所有参数类型
+H:\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(3782,26): message : 可能是“HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)”
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(28,16): message : 尝试匹配参数列表“(int, int, int, int, int, BOOL, int, int, int, int, int, int, int, const char [6])”时
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(50,43): error C2440: “=”: 无法从“char [5]”转换为“LPCWSTR”
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(50,30): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(57,1): error C2664: “HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)”: 无法将参数 2 从“char [5]”转换为“LPCWSTR”
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(57,1): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+H:\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4432,1): message : 参见“CreateWindowExW”的声明
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(78,15): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(181,102): error C2664: “BOOL TextOutW(HDC,int,int,LPCWSTR,int)”: 无法将参数 4 从“char [13]”转换为“LPCWSTR”
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(181,86): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+H:\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 参见“TextOutW”的声明
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(185,110): error C2664: “BOOL TextOutW(HDC,int,int,LPCWSTR,int)”: 无法将参数 4 从“char [15]”转换为“LPCWSTR”
+H:\code\code\c\VS\Sophomore\6\SDK1\SDK1\SDK1.cpp(185,90): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+H:\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 参见“TextOutW”的声明

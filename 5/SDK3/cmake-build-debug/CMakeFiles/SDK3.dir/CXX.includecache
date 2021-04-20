@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/code/code/c/clion/Sophomore/5/SDK3/main.cpp
+windows.h
+-
+stdlib.h
+-
+string.h
+-
+iostream
+-
+string
+-
+sstream
+-
+

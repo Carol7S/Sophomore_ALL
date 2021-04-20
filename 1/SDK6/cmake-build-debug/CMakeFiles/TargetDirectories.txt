@@ -1,0 +1,3 @@
+H:/code/code/c/clion/SDK6/cmake-build-debug/CMakeFiles/SDK6.dir
+H:/code/code/c/clion/SDK6/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/code/code/c/clion/SDK6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

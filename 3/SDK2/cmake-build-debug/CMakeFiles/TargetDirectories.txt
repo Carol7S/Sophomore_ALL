@@ -1,0 +1,3 @@
+H:/code/code/c/clion/Sophomore/3/SDK2/cmake-build-debug/CMakeFiles/SDK2.dir
+H:/code/code/c/clion/Sophomore/3/SDK2/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/code/code/c/clion/Sophomore/3/SDK2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

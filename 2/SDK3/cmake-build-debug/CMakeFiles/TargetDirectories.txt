@@ -1,0 +1,3 @@
+H:/code/code/c/clion/2/SDK3/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/code/code/c/clion/2/SDK3/cmake-build-debug/CMakeFiles/SDK3.dir
+H:/code/code/c/clion/2/SDK3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

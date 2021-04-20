@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/code/code/c/clion/2/think/main.cpp
+windows.h
+-
+stdlib.h
+-
+string.h
+-
+cmath
+-
+time.h
+-
+algorithm
+-
+
